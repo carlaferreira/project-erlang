@@ -28,6 +28,8 @@ If you know git commands, don't be shocked, this project commands are restricted
   * Adds a collaborator to the repo. It should include the admin, the repo name, and the new collaborator username.
 * **subscribe**
   * Notify collaborators that have subscibed for notifications of repository changes (e.g., a new file added)
+* **token**
+  * Allow admins to generate temporary access tokens for specific users or use cases. Tokens grant access to a repository for a limited time and after expiration, the token is invalidated.
   
 The following commands are only allowed to the admin or invited collaborators of a repo:
 
