@@ -51,3 +51,5 @@ The system has two components:
   * Clients that pick randomly requests to send to the server and, as such, don't follow the protocol;
   * Clients that follow the agreed protocol when interacting with the server.
 * In the project report explain your solution and what properties your implementation ensures, justifying your claims.
+
+
